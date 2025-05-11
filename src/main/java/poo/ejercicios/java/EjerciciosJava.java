@@ -1,5 +1,4 @@
 
-
 package poo.ejercicios.java;
 
 public class EjerciciosJava {
